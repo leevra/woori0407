@@ -6,7 +6,7 @@ email: help@leevra.com
 description: "개인의 신용등급을 관리하여 개인신용대출 한도와 금리를 좋게 하자" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "개인신용대출, 신용등급 관리"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://woori0407.leevra.com" # the base hostname & protocol for your site
+url: "https://woori0407.leeseungju.com" # the base hostname & protocol for your site
 locale: kr_KO
 permalink: /:title
 
